@@ -2,4 +2,4 @@
 
 Lab Project
 
-![Gameplay Screenshot 1](Project/SS.png)
+![Gameplay Screenshot 1](Images/SS.png)
