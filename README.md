@@ -9,9 +9,9 @@
 ---
 
 ## Submitors
-- [Mazbha Ul Haque](https://github.com/NoobCoderIsSed)
-- [Farhan Haque Shakib]()
-- [Hasnat Rafi Uddin](https://github.com/Maznu007)
+- [Mazbha Ul Haque (ID: 24341266)](https://github.com/NoobCoderIsSed)
+- [Farhan Haque Shakib (ID: 24341162)](https://github.com/Farhan011235)
+- [Hasnat Rafi Uddin (ID: 24341277)](https://github.com/Maznu007)
 
 ## Key Features
 
