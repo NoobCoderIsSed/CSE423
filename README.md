@@ -8,6 +8,11 @@
 
 ---
 
+## Submitors
+- [Mazbha Ul Haque]
+- [Farhan Haque Shakib]
+- [Hasnat Rafi Uddin]
+
 ## Key Features
 
 ### Player Mechanics
@@ -45,9 +50,6 @@ Score as high as possible while surviving enemy attacks and collecting coins. Th
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/BRACU-Runner.git
+
 
 ![Gameplay Screenshot 1](Images/SS.png)
